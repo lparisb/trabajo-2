@@ -1,0 +1,26 @@
+body{
+  background-color: #8f5eff;
+}
+.ml7 {
+  position: relative;
+  font-weight: 100;
+  font-size: 3.7em;
+  font-family: Work Sans;
+  color: white;
+  margin-left: 700px;
+  margin-top: 300px;
+  
+}
+.ml7 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+.ml7 .letter {
+  transform-origin: 0 100%;
+  display: inline-block;
+  line-height: 1em;
+}
